@@ -2,6 +2,8 @@ title: GESS Mobile App Documentation
 author: L.M.Dissanayake
 remote_theme: just-the-docs/just-the-docs
 
+search_enabled: true
+
 # This tells the theme to use the full width of the screen
 aux_links:
   "Back to GitHub":
