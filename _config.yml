@@ -1,3 +1,11 @@
-title: My Test Site
-description: Testing Jekyll on GitHub Pages
-theme: minima
+title: Technical Documentation
+author: L.M.Dissanayake
+lang: en
+timezone: Asia/Colombo
+
+# Theme settings
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+# This theme requires a few specific settings to look "Pro"
+theme_mode: light # or dark
+# Chirpy uses a specific width by default that is wider than Minima
