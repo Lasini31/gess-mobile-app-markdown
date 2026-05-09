@@ -6,4 +6,4 @@ has_children: true
 ---
 
 # App Screens
-This section explains the logic behind the five core screens of the GESS App.
+This section explains the logic behind the core screens of the GESS App.
