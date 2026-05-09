@@ -1,4 +1,8 @@
-title: Technical Documentation
+title: GESS Mobile App Documentation
 author: L.M.Dissanayake
-lang: en
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: just-the-docs/just-the-docs
+
+# This tells the theme to use the full width of the screen
+aux_links:
+  "Back to GitHub":
+    - https://github.com/Lasini31/gess-mobile-app-markdown
