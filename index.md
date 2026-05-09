@@ -5,7 +5,7 @@ title: Welcome
 
 # Hello World!
 
-If you can see this, **Jekyll is working.**
+If you can see this, **Jekyll is working with Chirpy.**
 
-*   Generated on: {{ site.time }}
-*   Theme: {{ site.theme }}
+*   **Location:** Pachchilapalli, Northern Province
+*   **Status:** Build Test Active

@@ -6,6 +6,5 @@ timezone: Asia/Colombo
 # Theme settings
 remote_theme: cotes2020/jekyll-theme-chirpy
 
-# This theme requires a few specific settings to look "Pro"
-theme_mode: light # or dark
-# Chirpy uses a specific width by default that is wider than Minima
+# Chirpy Specific Settings
+theme_mode: light
