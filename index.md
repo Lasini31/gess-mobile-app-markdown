@@ -1,11 +1,7 @@
 ---
 layout: home
-title: Welcome
+title: Home
 ---
 
-# Hello World!
-
-If you can see this, **Jekyll is working with Chirpy.**
-
-*   **Location:** Pachchilapalli, Northern Province
-*   **Status:** Build Test Active
+# Test Page
+Chirpy test for GESS Mobile App.
